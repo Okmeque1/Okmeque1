@@ -27,7 +27,7 @@ Careful - Someone is waiting for you.
 
 <p align="center"> 
   <a href="https://github.com/Okmeque1">
-    <img src="https://komarev.com/ghpvc/?username=Okmeque1&color=blue&style=for-the-badge" alt="How many people have clicked here" /> 
+    <img src="https://komarev.com/ghpvc/?username=Okmeque1&color=green&style=for-the-badge" alt="How many people have clicked here" /> 
   </a>
 </p>
 
