@@ -8,4 +8,4 @@
 - 📫 Wanna contact me? Go ahead : okmeque1@gmail.com. No spam or weird stuff tho.
 - ⚡ Fun fact: Well, not so fun. I get headaches every week so if I don't respond on a Friday evening, this is why.
 
--->
+--> Careful - Someone is waiting for you. Beware of the outside world...
